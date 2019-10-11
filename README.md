@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Tailspin1612/Space%20Game%20-%20web/_apis/build/status/xscully.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Tailspin1612/Space%20Game%20-%20web/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
